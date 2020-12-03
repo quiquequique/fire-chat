@@ -1,0 +1,11 @@
+{
+  "targets": {
+    "firechat-38959": {
+      "hosting": {
+        "ej13FireChat": [
+          "firechat-38959"
+        ]
+      }
+    }
+  }
+}
