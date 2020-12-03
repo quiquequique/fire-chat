@@ -1,4 +1,11 @@
-# Ej13FireChat
+# Firebase Chat
+## chat basico a travez de coleccion de firebase entre usuarios autenticados
+- Angular Fire
+- Angular Fire Authentication
+- Web sokets con firebase
+- autenticacion firebase google y twitter
+
+## loguear en 2 browsers a puerto 4200 usar usuarios distintos para testear
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 10.1.2.
 
