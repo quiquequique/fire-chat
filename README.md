@@ -1,5 +1,5 @@
 # Firebase Chat
-## chat basico a travez de coleccion de firebase entre usuarios autenticados
+## chat basico a través de coleccion de firebase entre usuarios autenticados
 - Angular Fire
 - Angular Fire Authentication
 - Web sokets con firebase
